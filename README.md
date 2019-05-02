@@ -6,9 +6,11 @@ Features:
 2. There are three ships randomly located once user starts the game.
 3. Size for each ship is three cells.
 4. Names of the ships are: (it could be modified in ShipBust class)
-Ship #1
-Ship #2
-Ship #3
+- Ship #1
+- Ship #2
+- Ship #3
+
+***************************************
 
 Try to play just do following steps:
 
