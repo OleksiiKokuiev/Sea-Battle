@@ -15,5 +15,7 @@ Features:
 Try to play just do following steps:
 
 clone
+
 run ShipBust.main()
+
 Enjoy!
